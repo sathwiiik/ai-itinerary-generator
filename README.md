@@ -429,8 +429,8 @@ The application will:
 curl -X POST 'https://your-cloud-function-url/generate' \
   -H 'Content-Type: application/json' \
   -d '{
-    "destination": "Paris",
-    "durationDays": 5
+    "destination": "Tehran",
+    "durationDays": 3
   }'
 ```
 
