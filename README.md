@@ -443,8 +443,8 @@ fetch('/generate', {
     'Content-Type': 'application/json' 
   },
   body: JSON.stringify({ 
-    destination: "Tokyo", 
-    durationDays: 7 
+    destination: "Tehran", 
+    durationDays: 3 
   })
 })
 .then(response => response.json())
