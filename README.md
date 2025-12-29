@@ -539,22 +539,4 @@ itinerary: [
 ![Itinerary Display](album/3.png)
 *Itinerary Display - Beautiful day-by-day travel plan*
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Create a new Pull Request
-
-## Support
-
-For support or questions, please open an issue on GitHub or contact the project maintainer.
-
-=============================================<p align="Center">![ALI BAVARCHIEE](https://teal-broad-gecko-650.mypinata.cloud/ipfs/bafkreif332ra4lrdjfzaiowc2ikhl65uflok37e7hmuxomwpccracarqpy)</p>=============================================
-=====
-| https://github.com/AliBavarchee/ |
-----
-| https://www.linkedin.com/in/ali-bavarchee-qip/ |
